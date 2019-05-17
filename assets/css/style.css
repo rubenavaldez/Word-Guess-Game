@@ -1,4 +1,29 @@
-/* CSS Reset */
+.conatiner {
+    background-image: url(assets/images/tile\ backdrop.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS Reset 
 *{ margin:0; padding:0; font-size:100%; line-height:1; }
 
 
@@ -16,11 +41,11 @@
     width: inherit;
     margin-top:
     }
-    /* #yoda {
+     #yoda {
     height: 100%;
     width:100%;
     Position: realtive;
-    } */
+    } 
     #textBox {    
     background-image: url("/assets/images/yoda.jpg");
     position: absolute; 
@@ -30,4 +55,4 @@
     font-weight: bold;   
     -webkit-text-stroke-width: .75px;
    -webkit-text-stroke-color: black;
-    }
+    } */
